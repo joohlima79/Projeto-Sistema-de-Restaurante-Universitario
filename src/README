@@ -1,0 +1,19 @@
+Aluno: Joanderson Borges de Lima
+Disciplina: Programação Orientada a Objeto
+
+Projeto: Sistema de Restaurante Universitario
+
+INSTRUÇÕES:
+- Execute a classe Main.java
+- Credenciais de teste:
+ALUNO:
+  Login: joao.silva
+  Senha: senha123
+
+SERVIDOR:
+  Login: carlos.souza
+  Senha: admin123
+
+ADMINISTRADOR:
+  Login: ana.admin
+  Senha: admin456
